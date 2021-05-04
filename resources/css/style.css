@@ -17,3 +17,8 @@ h1 {
     color: aquamarine;
     text-align: center;
 }
+
+#phone-icon {
+    display: block;
+    padding-top: 20px;
+}
