@@ -35,3 +35,8 @@ body {
     display: block;
     padding-top: 20px;
 }
+*/
+.footer-main {
+    text-align: right;
+    color: gray;
+}
